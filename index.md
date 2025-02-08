@@ -34,10 +34,11 @@ features:
 #    link: 
 ---
 
-To build android, you need a server. Often times, these are paid.
+<!-- To build android, you need a server. Often times, these are paid.
 
-Here are some options:
+#Here are some options:
 
 - foss.crave.io (free)
 - Google Cloud (paid, with free trial)
+-->
 
